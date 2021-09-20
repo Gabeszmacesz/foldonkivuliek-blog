@@ -1,0 +1,67 @@
+body {
+    background-image: url(https://cdn.portfolio.hu/articles/images-xl/u/f/o/ufo-tamadas-getty-345047.jpg);
+    color: blanchedalmond;
+}
+
+table {
+    border: 1px solid black;
+    background-color: #eee;
+    border-spacing: 0;
+    color: black;
+    padding: 10px;
+  }
+  tr,
+  td,
+  th {
+    border: 1px solid black;
+    margin: 0;
+    padding: 4px;
+    text-align: center;
+  }
+  nav {
+      background-color: cadetblue;
+      height: 30px;
+      padding-top: 12px;
+      display: inline-block;
+      border-radius: 10px;
+  }
+
+  a {
+      border: solid 1px black;
+      padding: 10px;
+      color: lightskyblue;
+      border-radius: 10px;
+  }
+
+  a:visited {
+      color: rgb(125, 238, 59);
+  }
+  section {
+      padding: 15px;
+  }
+  footer {
+      background-color: cadetblue;
+      height: 30px;
+      padding-top: 12px;
+      display: inline-block;
+      border-radius: 10px;
+  }
+  aside a {
+      background-color: cadetblue;
+      height: 30px;
+      padding-top: 12px;
+      display: inline-block;
+      border-radius: 10px;
+  }
+  .header2 a {
+      border: none;
+  }
+  .img {
+      width: 250px;
+      height: 250px;
+  }
+  h1 {
+      font-size: 80px;
+  }
+  
+  
